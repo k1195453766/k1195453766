@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @k1195453766
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m JunQiu
+- 👀 I’m interested in Game
+- 🌱 I’m currently learning PHP and Python
+- 💞️ I’m looking to collaborate on app development and website development
 - 📫 How to reach me ：QQ：183397156
 
 <!---
